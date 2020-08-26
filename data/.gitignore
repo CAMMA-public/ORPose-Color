@@ -2,6 +2,7 @@
 *
 # Except these files
 !.gitignore
+!arch-orpose.png
 !h36stats.json
 !camma_logo_tr.png
 !result_kpt2d.gif
