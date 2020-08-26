@@ -512,7 +512,7 @@ def draw_2d_keypoints(image, pt2d, style="camma", box=None, use_color=None, THRE
             thickness=1,
             lineType=cv2.LINE_AA,
         )
-
+    return image
 
 def cam_to_image_coordinate(pts, cam):
     fx, fy, cx, cy = cam["fx"], cam["fy"], cam["cx"], cam["cy"]
