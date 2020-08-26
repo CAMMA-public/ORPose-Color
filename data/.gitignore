@@ -1,0 +1,9 @@
+# Ignore everything in this directory
+*
+# Except these files
+!.gitignore
+!h36stats.json
+!camma_logo_tr.png
+!result_kpt2d.gif
+!mvor_seq1_x12_color/
+!mvor_seq1_x12_color/*
