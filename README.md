@@ -34,7 +34,7 @@ Results on the _MVOR+_ dataset show that the proposed student network performs o
 
 ## Demo on the local computer
 #### Installation
-You need to have a [Anaconda3](https://www.anaconda.com/products/individual#linux) installed for the setup
+You need to have a [Anaconda3](https://www.anaconda.com/products/individual#linux) installed for the setup. We developed the code on the Ubuntu 16.04, Python 3.7, PyTorch 1.5.1, CUDA 10.1 using the NVIDIA Tesla V100 GPU. 
 ```sh
 > sudo apt-get install ffmpeg 
 > ORPose_Color=/path/to/ORPose_Color/repository
