@@ -8,7 +8,7 @@
 
 **Self-supervision on Unlabelled OR Data for Multi-person 2D/3D Human Pose Estimation (MICCAI-2020)**
 
-_Vinkle Srivastav, Afshin Gangi, Nicolas Padoy_
+_[Vinkle Srivastav](https://vinkle.github.io/), Afshin Gangi, Nicolas Padoy_
 
 This repository contains the inference demo.
 
